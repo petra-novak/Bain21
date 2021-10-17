@@ -2,9 +2,9 @@
 title: Lerntagebuch im Kurs Bibliotheks- und Archivinformatik
 ---
 
-## Willkommen! In diesem Blog werden die im Kurs Bibliotheks- und Archivinformatik besprochenen Themen reflektieren. 
+## Willkommen! In diesem Blog werden die im Kurs besprochenen Themen reflektiert. 
 
-Folgende Themen werden behandelt:
+Folgende Punkte werden behandelt:
 
 - Technische Grundlagen BAIN
 - Funktion und Aufbau von Bibliothekssystemen
@@ -14,5 +14,5 @@ Folgende Themen werden behandelt:
 - Suchmaschinen und Discovery-Systeme
 - Linked Data
 
-## Autorin: Petra Novak
+## Schreibt: Petra Novak
 
