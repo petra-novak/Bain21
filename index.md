@@ -6,7 +6,7 @@ title: Lerntagebuch
 
 In diesem Blog werde ich die im Kurs Bibliotheks- und Archivinformatik besprochenen Themen reflektieren. 
 
-Folgende Themen wurden behandelt:
+Folgende Themen werden behandelt:
 
 - Technische Grundlagen BAIN
 - Funktion und Aufbau von Bibliothekssystemen
@@ -15,4 +15,6 @@ Folgende Themen wurden behandelt:
 - Metadaten modellieren und Schnittstellen nutzen
 - Suchmaschinen und Discovery-Systeme
 - Linked Data
+
+Ich freue mich auf Kommentare und Inpts 
 
