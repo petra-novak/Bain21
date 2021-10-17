@@ -16,5 +16,3 @@ Folgende Themen werden behandelt:
 - Suchmaschinen und Discovery-Systeme
 - Linked Data
 
-Ich freue mich auf Kommentare und Inpts 
-
