@@ -2,22 +2,6 @@
 
 Diese Vorlage kann verwendet werden, um ein Blog mit GitHub Pages für den Kurs [Bibliotheks- und Archivinformatik](https://github.com/felixlohmeier/bibliotheks-und-archivinformatik) zu erstellen.
 
-1. Bei GitHub anmelden
-2. Mit dem Button [Use this template](https://github.com/felixlohmeier/lerntagebuch/generate) ein eigenes Repository anlegen
-    * Name und Beschreibung ausfüllen.
-    * Für die Nutzung von GitHub-Pages muss das Repository öffentlich (public) sein.
-3. Die Einstellungen (Settings) des neuen Repositorys aufrufen
-    * Im Menüpunkt "Pages" im Pulldown-Menü "Source" den branch `master` auswählen und Save-Button drücken
-    * Die Seite lädt neu. Es erscheint jetzt die Meldung mit der Internetadresse des Blogs: "Your site is ready to be published at http://...".
-    * Das Lerntagebuch ist jetzt bereits online. GitHub generiert nach jeder Änderung im Repository innerhalb von Sekunden neue HTML-Seiten, die unter der Adresse ...github.io... automatisch veröffentlicht werden.
-4. Metadaten in Datei `_config.yml` anpassen:
-    * Ändern Sie Titel, Autor/in, Beschreibung.
-    * Ändern Sie die E-Mail oder löschen Sie die Zeile, falls sie keine angeben wollen.
-    * Setzen Sie Ihre Nutzernamen bei Twitter und GitHub ein oder löschen Sie die Zeilen.
-5. Titel und Willkommenstext in Datei `index.md` anpassen:
-    * Die Angabe "title: ..." setzt den Untertitel der Seite.
-    * Die Überschrift "## ..." und der Willkommenstext sind optional.
-6. Diese Anleitung in Datei `README.md` löschen (oder Erläuterungen zum GitHub Repository ergänzen)
 7. Blogposts im Ordner `_posts` anpassen
     * Die Vorlage enthält zwei Beispieldateien. Ändern Sie darin Text und Metadaten.
     * Die Dateien können auch umbenannt werden.
