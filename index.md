@@ -2,9 +2,9 @@
 title: Lerntagebuch im Modul BAIN 
 ---
 
-## Willkommen zu meinem Lerntagebuch
+## Willkommen zum Lerntagebuch von Petra Novak
 
-In diesem Blog werde ich die im Kurs Bibliotheks- und Archivinformatik besprochenen Themen reflektieren. 
+In diesem Blog werden die im Kurs Bibliotheks- und Archivinformatik besprochenen Themen reflektieren. 
 
 Folgende Themen werden behandelt:
 
