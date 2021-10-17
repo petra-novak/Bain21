@@ -1,8 +1,7 @@
 title: Lerntagebuch im Kurs Bibliotheks- und Archivinformatik HS2021
 author: Petra Novak 
 email: petra.novak@stud.fhgr.ch
-description: > # this means to ignore newlines
-Mein Lerntagebuch im Kurs BAIN 
+description: Mein Lerntagebuch im Kurs BAIN 
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 theme: minima
