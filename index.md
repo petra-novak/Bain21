@@ -1,5 +1,5 @@
 ---
-title: Lerntagebuch
+title: Lerntagebuch im Modul BAIN 
 ---
 
 ## Willkommen zu meinem Lerntagebuch
