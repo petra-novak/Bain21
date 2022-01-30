@@ -3,13 +3,12 @@ title: "Wo bin ich gestartet?"
 date: 2021-09-15
 ---
 
-Test Test Test 
-Test Test Test 
+Mein Name ist Petra Novak und ich bin im 7. Semester des Studiums Information Science (Vertiefung Bibliotheksmanagement) an der Fachhochschule Graubünden. Ich studiere Teilzeit, da ich parallel zu dem Studium in einer öffentlichen Bibliothek arbeite (65 %). Momentan bin ich im vorletzten Semester und hoffe, Ende Sommer 2022 das Studium abzuschliessen. 
 
-Wer bin ich? 
-Wo arbeite ich? 
-Was sind miene Interesse an Kurs? 
-Was sind meine Erwartungen an Kurs? 
-Wo sehe ich Schwierigkeiten? 
-Wie kann ich mir Hilfe holen? 
-Worauf freue ich mich? 
+Das Studium der Informationswissenschaft ist mein zweites Studium. Kurz bevor ich 2014 wegen Liebe in die Schweiz gekommen bin, habe ich das Masterstudium der Slawistik an der Universität in Zagreb abgeschlossen. Der Umzug in die Schweiz bedeutete für mich eine berufliche Neuorientierung. Parallel zum Studienbeginn habe ich ein einjähriges Praktikum in der Stadtbibliothek Aarau abgeschlossen. Nach dem Praktikumsabschluss dürfte ich die auf zwei Jahre befristete Stelle am gleichen Ort antreten. In diesen zwei Jahre war ich für die Umsetzung der Massnahmen aus dem Digitalen Konzept der Stadtbibliothek verantwortlich. Ab dem Januar 2022 werde ich in der Stadtbibliothek Aarau fest angestellt, als Fachperson Bereich Digitales. Meine Aufgaben in der Bibliothek umfassen verschiedene Tätigkeiten: Ich kümmere mich um die Bibliothekstechnik (RFID, Veranstaltungstechnik) und um die Schnittstellen (E-Bibliothek, Funktionalitäten auf der Website und in LMS), bin die erste Ansprechperson bei den technischen Problemen aller Art und pflege den Kontakt mit dem Digitalmanagement der Stadt Aarau. Dazu kommen noch die Einsätze im Kundendienst sowie die Konzeption und Durchführung von Veranstaltungen. 
+
+Die angekündigten Themen im Modul Bibliotheks- und Archivinformatik kann ich wahrscheinlich nur begrenzt (wenn überhaupt) mit meiner Arbeitspraxis verknüpfen. Als eine Öffentliche Bibliothek sind wir grossteils an bereits fertige Softwarelösungen hingewiesen und beteiligen uns nicht an der Entwicklung. Der Innovationsbedarf ist in dem Bereich nicht besonders gross (auch wenn es Raum für Verbesserungen gibt, wie z. B. beim OPAC). Auch das Katalogisieren findet kaum mehr intern statt, da die Daten in der Regel vom SBD.bibliohteksservice übernommen werden. In der Prozesskette der Fremddatenübernahme sind wie als öffentliche Bibliothek die Endbenutzer und stellen uns keine Fragen zum technischen Hintergrund der Datenlogistik. Dazu müssen wir keine Datenbanken pflegen oder als Bibliothek die Forschung unterstützen.
+
+Trotzdem finde ich die thematische Breite des Moduls Bibliotheks- und Archivinformatik sehr interessant, besonders in Bezug auf eine spätere Spezialisierung. Obwohl ich mit meiner jetzigen beruflichen Situation sehr zufrieden bin, schliesse ich die Möglichkeit der beruflichen Zukunft in einer wissenschaftlichen Bibliothek nicht aus. Die Teilnahme an diesem Kurs sehe ich als eine gute Gelegenheit, mich mit den aktuellen Themen und Trends aus dem Bereich der Wissenschaftlichen Bibliotheken auseinanderzusetzen. 
+
+Vor dem Leistungsnachweis (Blogeinträge) habe ich viel Respekt. Ich finde den Vorschlag sinnvoller als eine Prüfung, bin aber ein bisschen von dem Umfang verängstigt. Momentan bin ich aus zeitlichen Gründen gar nicht in der Lage regelmässig Texte zu schreiben. Ich hoffe, dass ich mir währen den Sitzungen gute Notizen machen kann, sodass das eigentliche Schreiben von Blogeinträgen möglichst wenig Zeit in Anspruch nimmt.  
